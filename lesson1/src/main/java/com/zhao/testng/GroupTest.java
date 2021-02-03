@@ -2,13 +2,13 @@ package com.zhao.testng;
 
 import org.testng.annotations.*;
 
-public class AnnotationTest {
-    @Test
+public class GroupTest {
+    @Test(groups = "client")
     public  void testCase1(){
         System.out.println("testng basic");
     }
 
-    @Test(enabled = false)
+    @Test(groups = "server")
     public void testCase2(){
         System.out.println("testng basic 2 ");
     }
@@ -21,14 +21,24 @@ public class AnnotationTest {
     public  void after(){
         System.out.println("after test");
     }
-    @BeforeClass
+    @BeforeClass(groups = "client")
     public void beforeClass(){
-        System.out.println("before class");
+        System.out.println("before client class");
     }
 
-    @AfterClass
+    @AfterClass(groups = "client")
     public void afterClass(){
-        System.out.println("after class ");
+        System.out.println("after  client class ");
+    }
+
+    @BeforeClass(groups = "server")
+    public void beforeServerClass(){
+        System.out.println("before server class");
+    }
+
+    @AfterClass(groups = "server")
+    public void afterServerClass(){
+        System.out.println("after server  class ");
     }
 
     @BeforeSuite
@@ -39,5 +49,4 @@ public class AnnotationTest {
     public void afterSuite(){
         System.out.println("after suite");
     }
-
 }

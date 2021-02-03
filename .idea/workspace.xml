@@ -2,11 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a70c46c9-9417-47c1-b3c9-8c54a45821a5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson1/lesson1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson1/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson1/src/main/java/com/zhao/testng/AnnotationTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson1/src/main/java/com/zhao/testng/GroupTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson1/src/main/java/com/zhao/testng/LoginTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson1/src/main/java/com/zhao/testng/PayTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson1/src/main/java/com/zhao/testng/SuiteConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson1/src/main/resources/test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1/src/main/java/com/zhao/testng/AnnotationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson1/src/main/java/com/zhao/testng/AnnotationTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1/target/classes/com/zhao/testng/AnnotationTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/lesson1/target/classes/com/zhao/testng/AnnotationTest.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -20,37 +23,94 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
+        <entry file="file://$PROJECT_DIR$/lesson1/src/main/java/com/zhao/testng/AnnotationTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="30" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
+            <state relative-caret-position="338">
+              <caret line="40" column="5" lean-forward="true" selection-start-line="5" selection-start-column="2" selection-end-line="40" selection-end-column="5" />
+              <folding>
+                <element signature="e#606#607#0" expanded="true" />
+                <element signature="e#642#643#0" expanded="true" />
+                <element signature="e#625#626#0" expanded="true" />
+                <element signature="e#661#662#0" expanded="true" />
+                <element signature="e#729#730#0" expanded="true" />
+                <element signature="e#765#766#0" expanded="true" />
+                <element signature="e#815#816#0" expanded="true" />
+                <element signature="e#851#852#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/lesson1/src/main/java/com/zhao/testng/AnnotationTest.java">
+        <entry file="file://$PROJECT_DIR$/lesson1/src/main/java/com/zhao/testng/GroupTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="23" column="38" selection-start-line="23" selection-start-column="38" selection-end-line="23" selection-end-column="38" />
+            <state relative-caret-position="447">
+              <caret line="40" column="41" selection-start-line="40" selection-start-column="41" selection-end-line="40" selection-end-column="41" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#131#132#0" expanded="true" />
-                <element signature="e#167#168#0" expanded="true" />
-                <element signature="e#225#226#0" expanded="true" />
-                <element signature="e#261#262#0" expanded="true" />
-                <element signature="e#372#373#0" expanded="true" />
-                <element signature="e#408#409#0" expanded="true" />
                 <element signature="e#508#509#0" expanded="true" />
-                <element signature="e#544#545#0" expanded="true" />
+                <element signature="e#558#559#0" expanded="true" />
+                <element signature="e#605#606#0" expanded="true" />
+                <element signature="e#655#656#0" expanded="true" />
+                <element signature="e#816#817#0" expanded="true" />
+                <element signature="e#866#867#0" expanded="true" />
+                <element signature="e#932#933#0" expanded="true" />
+                <element signature="e#982#983#0" expanded="true" />
+                <element signature="e#705#706#0" expanded="true" />
+                <element signature="e#756#757#0" expanded="true" />
+                <element signature="e#802#803#0" expanded="true" />
+                <element signature="e#851#852#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lesson1/pom.xml">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/lesson1/src/main/resources/test.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="40" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lesson1/src/main/java/com/zhao/testng/SuiteConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#309#310#0" expanded="true" />
+                <element signature="e#345#346#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lesson1/src/main/java/com/zhao/testng/LoginTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="38" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
+              <folding>
+                <element signature="e#126#127#0" expanded="true" />
+                <element signature="e#162#163#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lesson1/src/main/java/com/zhao/testng/PayTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="36" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
+              <folding>
+                <element signature="e#122#123#0" expanded="true" />
+                <element signature="e#158#159#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -58,6 +118,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Tag Library Descriptor" />
         <option value="Class" />
       </list>
     </option>
@@ -69,7 +130,13 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/lesson1/src/main/resources/test.xml.tld" />
+        <option value="$PROJECT_DIR$/lesson1/src/main/java/com/zhao/testng/LoginTest.java" />
+        <option value="$PROJECT_DIR$/lesson1/src/main/java/com/zhao/testng/PayTest.java" />
+        <option value="$PROJECT_DIR$/lesson1/src/main/resources/test.xml" />
+        <option value="$PROJECT_DIR$/lesson1/src/main/java/com/zhao/testng/SuiteConfig.java" />
         <option value="$PROJECT_DIR$/lesson1/src/main/java/com/zhao/testng/AnnotationTest.java" />
+        <option value="$PROJECT_DIR$/lesson1/src/main/java/com/zhao/testng/GroupTest.java" />
       </list>
     </option>
   </component>
@@ -90,9 +157,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="CatdeaLogs" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -126,6 +193,70 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="AutoTestLesson" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutoTestLesson" type="462c0819:PsiDirectoryNode" />
+              <item name="lesson1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="testng" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutoTestLesson" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutoTestLesson" type="462c0819:PsiDirectoryNode" />
+              <item name="lesson1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutoTestLesson" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="AutoTestLesson" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: com.beust:jcommander:1.72" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="AutoTestLesson" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: com.beust:jcommander:1.72" type="70bed36:NamedLibraryElementNode" />
+              <item name="jcommander-1.72.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutoTestLesson" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: com.beust:jcommander:1.72" type="70bed36:NamedLibraryElementNode" />
+              <item name="jcommander-1.72.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="jcommander" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutoTestLesson" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.testng:testng:6.14.3" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="AutoTestLesson" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.testng:testng:6.14.3" type="70bed36:NamedLibraryElementNode" />
+              <item name="testng-6.14.3.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutoTestLesson" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.testng:testng:6.14.3" type="70bed36:NamedLibraryElementNode" />
+              <item name="testng-6.14.3.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="testng" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutoTestLesson" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.testng:testng:6.14.3" type="70bed36:NamedLibraryElementNode" />
+              <item name="testng-6.14.3.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -135,7 +266,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1612155862877" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1612327548233" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -151,7 +282,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.AnnotationTest.testCase1">
+  <component name="RunManager" selected="TestNG.GroupTest">
     <configuration name="AnnotationTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="lesson1" />
       <extension name="coverage">
@@ -204,10 +335,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="GroupTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="lesson1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zhao.testng.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.zhao.testng" />
+      <option name="MAIN_CLASS_NAME" value="com.zhao.testng.GroupTest" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/mac126/Desktop/videoCourseCode/testsLesson/AutoTestLesson/lesson1/src/main/resources/test.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="lesson1" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/lesson1/src/main/resources/test.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.AnnotationTest.testCase1" />
+        <item itemvalue="TestNG.GroupTest" />
         <item itemvalue="TestNG.AnnotationTest" />
+        <item itemvalue="TestNG./Users/mac126/Desktop/videoCourseCode/testsLesson/AutoTestLesson/lesson1/src/main/resources/test.xml" />
+        <item itemvalue="TestNG.AnnotationTest.testCase1" />
         <item itemvalue="TestNG.AnnotationTest.testCase2" />
       </list>
     </recent_temporary>
@@ -222,61 +381,82 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1612155139596</updated>
-      <workItem from="1612155144105" duration="621000" />
+      <workItem from="1612155144105" duration="1073000" />
+      <workItem from="1612227527987" duration="2808000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="AnnotationTest_testCase1 - 2021.02.01 at 12h 59m 19s.xml">
-      <configuration name="AnnotationTest.testCase1" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="AnnotationTest - 2021.02.01 at 13h 02m 53s.xml">
-      <configuration name="AnnotationTest" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="AnnotationTest_testCase2 - 2021.02.01 at 13h 03m 04s.xml">
       <configuration name="AnnotationTest.testCase2" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="AnnotationTest - 2021.02.01 at 13h 04m 00s.xml">
+      <configuration name="AnnotationTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="AnnotationTest_testCase1 - 2021.02.01 at 13h 04m 27s.xml">
+      <configuration name="AnnotationTest.testCase1" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="AnnotationTest - 2021.02.02 at 09h 00m 07s.xml">
+      <configuration name="AnnotationTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="AnnotationTest - 2021.02.02 at 09h 03m 22s.xml">
+      <configuration name="AnnotationTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_mac126_Desktop_videoCourseCode_testsLesson_AutoTestLesson_lesson1_src_main_resources_test_xml - 2021.02.02 at 12h 49m 51s.xml">
+      <configuration name="/Users/mac126/Desktop/videoCourseCode/testsLesson/AutoTestLesson/lesson1/src/main/resources/test.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_mac126_Desktop_videoCourseCode_testsLesson_AutoTestLesson_lesson1_src_main_resources_test_xml - 2021.02.02 at 12h 50m 51s.xml">
+      <configuration name="/Users/mac126/Desktop/videoCourseCode/testsLesson/AutoTestLesson/lesson1/src/main/resources/test.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="AnnotationTest - 2021.02.02 at 12h 51m 37s.xml">
+      <configuration name="AnnotationTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="GroupTest - 2021.02.03 at 08h 59m 43s.xml">
+      <configuration name="GroupTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="GroupTest - 2021.02.03 at 09h 00m 38s.xml">
+      <configuration name="GroupTest" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="621000" />
+    <option name="totallyTimeSpent" value="3881000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="721" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="23" width="1280" height="721" extended-state="0" />
     <layout>
-      <window_info id="Designer" />
-      <window_info id="Image Layers" />
-      <window_info id="UI Designer" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info id="Capture Tool" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24959612" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2536349" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" weight="0.3290938" />
-      <window_info anchor="bottom" id="JProfiler" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Job test results" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3290938" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.4228935" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3990461" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Json Parser" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Jenkins" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3290938" />
+      <window_info anchor="bottom" id="JProfiler" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info anchor="bottom" id="Job test results" order="14" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Jenkins" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Json Parser" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+      <window_info anchor="right" id="Palette&#9;" order="9" />
+      <window_info anchor="right" id="Theme Preview" order="10" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -293,20 +473,98 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lesson1/src/main/java/com/zhao/testng/AnnotationTest.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.3/testng-6.14.3.jar!/org/testng/annotations/BeforeMethod.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="23" column="38" selection-start-line="23" selection-start-column="38" selection-end-line="23" selection-end-column="38" />
+        <state relative-caret-position="31">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#131#132#0" expanded="true" />
-            <element signature="e#167#168#0" expanded="true" />
-            <element signature="e#225#226#0" expanded="true" />
-            <element signature="e#261#262#0" expanded="true" />
-            <element signature="e#372#373#0" expanded="true" />
-            <element signature="e#408#409#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.3/testng-6.14.3.jar!/com/beust/testng/TestNG.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson1/src/main/java/com/zhao/testng/PayTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="36" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
+          <folding>
+            <element signature="e#122#123#0" expanded="true" />
+            <element signature="e#158#159#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson1/src/main/java/com/zhao/testng/LoginTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="38" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
+          <folding>
+            <element signature="e#126#127#0" expanded="true" />
+            <element signature="e#162#163#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson1/src/main/resources/test.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="40" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson1/src/main/java/com/zhao/testng/SuiteConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#309#310#0" expanded="true" />
+            <element signature="e#345#346#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson1/src/main/java/com/zhao/testng/AnnotationTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="40" column="5" lean-forward="true" selection-start-line="5" selection-start-column="2" selection-end-line="40" selection-end-column="5" />
+          <folding>
+            <element signature="e#606#607#0" expanded="true" />
+            <element signature="e#642#643#0" expanded="true" />
+            <element signature="e#625#626#0" expanded="true" />
+            <element signature="e#661#662#0" expanded="true" />
+            <element signature="e#729#730#0" expanded="true" />
+            <element signature="e#765#766#0" expanded="true" />
+            <element signature="e#815#816#0" expanded="true" />
+            <element signature="e#851#852#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson1/src/main/java/com/zhao/testng/GroupTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="447">
+          <caret line="40" column="41" selection-start-line="40" selection-start-column="41" selection-end-line="40" selection-end-column="41" />
+          <folding>
             <element signature="e#508#509#0" expanded="true" />
-            <element signature="e#544#545#0" expanded="true" />
+            <element signature="e#558#559#0" expanded="true" />
+            <element signature="e#605#606#0" expanded="true" />
+            <element signature="e#655#656#0" expanded="true" />
+            <element signature="e#816#817#0" expanded="true" />
+            <element signature="e#866#867#0" expanded="true" />
+            <element signature="e#932#933#0" expanded="true" />
+            <element signature="e#982#983#0" expanded="true" />
+            <element signature="e#705#706#0" expanded="true" />
+            <element signature="e#756#757#0" expanded="true" />
+            <element signature="e#802#803#0" expanded="true" />
+            <element signature="e#851#852#0" expanded="true" />
           </folding>
         </state>
       </provider>
